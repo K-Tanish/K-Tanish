@@ -7,7 +7,7 @@
 
 Currently building an AI-powered personal memory assistant — something that stores and retrieves anything you want to remember, the way your brain should but doesn't ;)
 
-I'm deep in the weeds of Machine Learning and full-stack development, always looking for the next interesting problem to solve. Beyond code, I have a strong eye for design — I care about how things look as much as how they work, and that sensibility tends to bleed into everything I build.
+My academic interest lies in Machine Learning and full-stack development, always looking for the next interesting problem to solve. Beyond code, I have a strong eye for design — I care about how things look as much as how they work.
 
 Open to collaborating on open source projects, and always up for conversations around Python, AI, and ML.
 
