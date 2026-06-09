@@ -57,5 +57,3 @@ Open to collaborating on open source projects, and always up for conversations a
 </p>
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K-Tanish)](https://git.io/streak-stats)
