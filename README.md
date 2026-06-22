@@ -53,7 +53,6 @@ Open to collaborating on open source projects, and always up for conversations a
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
 </p>
 
 ---
